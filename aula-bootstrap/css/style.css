@@ -1,0 +1,26 @@
+    *{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    .navbar{
+        background-color: #AEAAB0;
+    }
+
+    .quem-somos{
+        background-color: #AD8CBE;
+        
+    }
+    .margin{
+        padding-top: 10px;
+        padding-bottom: 50px;
+
+    }
+    .parceiros{
+        background-color: #AF79CB;
+    }
+    .bg-footer{
+        background-color:black;
+        color: white;
+    }
+
+   
